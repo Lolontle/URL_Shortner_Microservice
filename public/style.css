@@ -1,0 +1,72 @@
+body {
+  font-family:'Share Tech Mono', monospace;
+  font-size: 25px;
+  color: #fff;
+  background-color: #fff;
+  text-align: center;
+  line-height: 1.4em;
+  background-image: url('https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+
+}
+
+main {
+  padding: 0;
+  margin-top: 40px;
+  background-color: #fff;
+  color:black;
+  border-radius: 25px;
+  opacity: 0.9;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+  color: #fff;
+}
+
+form {
+  margin: 10px auto;
+  padding: 20px;
+  max-width: 600px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  padding: 7px;
+}
+
+input[type='text'] {
+  width: 320px;
+  text-align: center;
+  border-color: #2574a9;
+  border-radius: 5px;
+}
+
+input[type='submit'] {
+  color:#fff;
+  background-color: #2574a9;
+  border-color: #2574a9;
+  border-radius: 5px;
+}
+
+fieldset {
+  border-radius: 25px;
+  border-color: #2574a9;
+}
+
+i {
+  padding: 10px;
+}
